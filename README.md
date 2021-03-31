@@ -8,3 +8,5 @@ And so the idea was born. [I found a website](www.wheelofnames.com) that stored 
 
 # How to use it
 Check the actions, and there is a single stage that runs the pyhton code that creates the bookmarklet code. All you need to do is create a new bookmark, and paste that output into the URL part! That's it! Feel free to fork this project and tweak the name list to suit your team or other settings for the site. 
+
+The output can be found in 'Actions > Latest Pipeline > build > Install Dependencies'
